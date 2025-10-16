@@ -3,10 +3,10 @@
 
  Pasta de C:\ASR\CURSOS\ALURA\screenmatchJPA
 
-04/09/2025  06:16    <DIR>          .
-26/08/2025  05:47    <DIR>          ..
+16/10/2025  05:23    <DIR>          .
+13/10/2025  05:19    <DIR>          ..
 12/09/2023  11:24               395 .gitignore
-20/08/2025  20:35    <DIR>          .idea
+24/09/2025  05:20    <DIR>          .idea
 12/09/2023  11:24    <DIR>          .mvn
 12/09/2023  11:24            11.290 mvnw
 12/09/2023  11:24             7.592 mvnw.cmd
@@ -15,8 +15,6 @@
 03/09/2025  06:16               793 README.md
 12/09/2023  11:24    <DIR>          src
 02/07/2025  22:22    <DIR>          target
-03/09/2025  06:18                 5 teste
-04/09/2025  06:08               850 teste2.txt
-04/09/2025  06:16                 0 teste3
-               9 arquivo(s)         24.139 bytes
-               6 pasta(s)   28.526.727.168 bytes dispon¡veis
+16/10/2025  05:23                 0 teste10.txt
+               7 arquivo(s)         23.284 bytes
+               6 pasta(s)   60.068.081.664 bytes dispon¡veis
