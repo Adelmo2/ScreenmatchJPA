@@ -33,15 +33,15 @@ public class Principal {
         var opcao = -1;
         while(opcao != 0) {
             var menu = """
-                    1 - Buscar Séries
-                    2 - Buscar Episódios
-                    3 - Listar Séries Buscadas
-                    4 - Buscar séries por título
-                    5 - Buscar séries por ator
-                    6 - Buscar Top 5 Series
-                    7 - Buscar Séries por categoria
-                    8 - Filtrar séries
-                    9 - Busca episódio por trecho
+                    1  - Buscar e cadastrar Séries 
+                    2  - Buscar e caastrar Episódios
+                    3  - Listar Séries Buscadas
+                    4  - Buscar séries por título
+                    5  - Buscar séries por ator
+                    6  - Buscar Top 5 Series
+                    7  - Buscar Séries por categoria
+                    8  - Filtrar séries
+                    9  - Busca episódio por trecho
                     10 - Top 5 Episoodios por serie.
                     11 - Buscar episódios a partir de uma data
                     
